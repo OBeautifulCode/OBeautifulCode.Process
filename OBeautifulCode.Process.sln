@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OBeautifulCode.Process", "OBeautifulCode.Process\OBeautifulCode.Process.csproj", "{BECCCE53-16EB-4608-8E3C-E6A5CF555A82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OBeautifulCode.Process.Test", "OBeautifulCode.Process.Test\OBeautifulCode.Process.Test.csproj", "{CEB41B4C-10BC-45E7-A52F-66774AB1681B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{51CD1541-AE6C-4A6B-9E4A-BD3576D4F3F1}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BECCCE53-16EB-4608-8E3C-E6A5CF555A82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BECCCE53-16EB-4608-8E3C-E6A5CF555A82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BECCCE53-16EB-4608-8E3C-E6A5CF555A82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BECCCE53-16EB-4608-8E3C-E6A5CF555A82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEB41B4C-10BC-45E7-A52F-66774AB1681B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEB41B4C-10BC-45E7-A52F-66774AB1681B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEB41B4C-10BC-45E7-A52F-66774AB1681B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEB41B4C-10BC-45E7-A52F-66774AB1681B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02670E03-2730-482C-B760-62A15C634545}
+	EndGlobalSection
+EndGlobal
