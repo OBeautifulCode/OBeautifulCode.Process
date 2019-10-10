@@ -9,7 +9,7 @@
 
 namespace OBeautifulCode.Process.Recipes
 {
-    using OBeautifulCode.Validation.Recipes;
+    using OBeautifulCode.Assertion.Recipes;
 
     /// <summary>
     /// Contains helper/convenience methods related to managing processes.

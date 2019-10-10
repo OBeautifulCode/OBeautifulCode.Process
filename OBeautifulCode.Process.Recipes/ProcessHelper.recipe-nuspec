@@ -5,7 +5,7 @@
     <tags>process</tags>
     <iconUrl>https://raw.githubusercontent.com/OBeautifulCode/OBeautifulCode.Process/master/OBeautifulCode.Process.Recipes/nuget-icon.png</iconUrl>
     <dependencies>
-      <dependency id="OBeautifulCode.Validation.Recipes.ParameterValidator" version="1.0.21" />
+      <dependency id="OBeautifulCode.Assertion.Recipes.Must" version="1.0.9" />
     </dependencies>
   </metadata>
   <files>
