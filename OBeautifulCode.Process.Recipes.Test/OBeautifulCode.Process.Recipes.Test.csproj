@@ -8,8 +8,8 @@
     <ProjectGuid>{CEB41B4C-10BC-45E7-A52F-66774AB1681B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>OBeautifulCode.Process.Test</RootNamespace>
-    <AssemblyName>OBeautifulCode.Process.Test</AssemblyName>
+    <RootNamespace>OBeautifulCode.Process.Recipes.Test</RootNamespace>
+    <AssemblyName>OBeautifulCode.Process.Recipes.Test</AssemblyName>
     <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -79,9 +79,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\OBeautifulCode.Process\OBeautifulCode.Process.csproj">
+    <ProjectReference Include="..\OBeautifulCode.Process.Recipes\OBeautifulCode.Process.Recipes.csproj">
       <Project>{beccce53-16eb-4608-8e3c-e6a5cf555a82}</Project>
-      <Name>OBeautifulCode.Process</Name>
+      <Name>OBeautifulCode.Process.Recipes</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

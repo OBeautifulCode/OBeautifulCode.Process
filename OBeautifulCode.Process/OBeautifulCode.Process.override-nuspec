@@ -1,7 +1,0 @@
-﻿<package>
-  <metadata>
-    <description>Provides process-related convenience/helper methods.</description>
-    <tags>process helper</tags>
-    <iconUrl>https://raw.githubusercontent.com/OBeautifulCode/OBeautifulCode.Process/master/OBeautifulCode.Process/nuget-icon.png</iconUrl>
-  </metadata>
-</package>

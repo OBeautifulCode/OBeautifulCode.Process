@@ -11,11 +11,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("OBeautifulCode.Process")]
-[assembly: AssemblyDescription("OBeautifulCode.Process")]
+[assembly: AssemblyTitle("OBeautifulCode.Process.Recipes.Test")]
+[assembly: AssemblyDescription("OBeautifulCode.Process.Recipes.Test")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("OBeautifulCode")]
-[assembly: AssemblyProduct("OBeautifulCode.Process")]
+[assembly: AssemblyProduct("OBeautifulCode.Process.Recipes.Test")]
 [assembly: AssemblyCopyright("Copyright (c) 2018 OBeautifulCode")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -26,7 +26,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("beccce53-16eb-4608-8e3c-e6a5cf555a82")]
+[assembly: Guid("ceb41b4c-10bc-45e7-a52f-66774ab1681b")]
 
 // Version information for an assembly consists of the following four values:
 //

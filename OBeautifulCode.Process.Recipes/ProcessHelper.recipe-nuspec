@@ -3,7 +3,7 @@
     <id>OBeautifulCode.Process.Recipes.ProcessHelper</id>
     <description>Provides helper/convenience methods related to managing processes.</description>
     <tags>process</tags>
-    <iconUrl>https://raw.githubusercontent.com/OBeautifulCode/OBeautifulCode.Process/master/OBeautifulCode.Process/nuget-icon.png</iconUrl>
+    <iconUrl>https://raw.githubusercontent.com/OBeautifulCode/OBeautifulCode.Process/master/OBeautifulCode.Process.Recipes/nuget-icon.png</iconUrl>
     <dependencies>
       <dependency id="OBeautifulCode.Validation.Recipes.ParameterValidator" version="1.0.21" />
     </dependencies>

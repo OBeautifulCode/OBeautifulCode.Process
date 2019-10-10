@@ -7,8 +7,8 @@
     <ProjectGuid>{BECCCE53-16EB-4608-8E3C-E6A5CF555A82}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>OBeautifulCode.Process</RootNamespace>
-    <AssemblyName>OBeautifulCode.Process</AssemblyName>
+    <RootNamespace>OBeautifulCode.Process.Recipes</RootNamespace>
+    <AssemblyName>OBeautifulCode.Process.Recipes</AssemblyName>
     <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -24,7 +24,7 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
-    <DocumentationFile>bin\Debug\OBeautifulCode.Process.xml</DocumentationFile>
+    <DocumentationFile>bin\Debug\OBeautifulCode.Process.Recipes.xml</DocumentationFile>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
@@ -34,7 +34,7 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
-    <DocumentationFile>bin\Release\OBeautifulCode.Process.xml</DocumentationFile>
+    <DocumentationFile>bin\Release\OBeautifulCode.Process.Recipes.xml</DocumentationFile>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -61,7 +61,6 @@
     <AdditionalFiles Include=".analyzers\stylecop.json" />
     <None Include=".analyzers\release.ruleset" />
     <None Include="nuget-icon.png" />
-    <None Include="OBeautifulCode.Process.override-nuspec" />
     <None Include="packages.config" />
     <None Include="ProcessHelper.recipe-nuspec" />
   </ItemGroup>
