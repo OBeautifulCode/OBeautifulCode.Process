@@ -5,10 +5,11 @@
     <tags>process</tags>
     <iconUrl>https://raw.githubusercontent.com/OBeautifulCode/OBeautifulCode.Process/master/OBeautifulCode.Process.Recipes/nuget-icon.png</iconUrl>
     <dependencies>
-      <dependency id="OBeautifulCode.Assertion.Recipes.Must" version="1.0.9" />
+      <dependency id="OBeautifulCode.Assertion.Recipes.Must" version="1.0.12" />
     </dependencies>
   </metadata>
   <files>
+    <file src=".analyzers\SuppressBecause.cs" target="content\net462\.recipes\OBeautifulCode.Process\SuppressBecause.cs" />
     <file src="ProcessHelper.cs" target="content\net462\.recipes\OBeautifulCode.Process\ProcessHelper.cs" />
   </files>
 </package>
