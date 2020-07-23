@@ -4,9 +4,6 @@
     <description>Provides helper/convenience methods related to managing processes.</description>
     <tags>process</tags>
     <iconUrl>https://raw.githubusercontent.com/OBeautifulCode/OBeautifulCode.Process/master/OBeautifulCode.Process.Recipes/nuget-icon.png</iconUrl>
-    <dependencies>
-      <dependency id="OBeautifulCode.Assertion.Recipes.Must" version="1.0.15" />
-    </dependencies>
   </metadata>
   <files>
     <file src=".analyzers\SuppressBecause.cs" target="content\net462\.recipes\OBeautifulCode.Process\SuppressBecause.cs" />
