@@ -13,7 +13,7 @@ namespace OBeautifulCode.Process.Recipes
     using global::System.Diagnostics;
     using global::System.Security.Principal;
 
-    using DotNetProcess = System.Diagnostics.Process;
+    using DotNetProcess = global::System.Diagnostics.Process;
 
     using static global::System.FormattableString;
 
